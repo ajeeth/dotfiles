@@ -1,0 +1,6 @@
+[user]
+	email = ajeeth@alghurair.com
+	name = ajeeth
+	signingkey = 83A82DF59B5F99A0
+[gpg]
+	program = gpg2
